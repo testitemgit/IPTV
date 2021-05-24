@@ -1,8 +1,15 @@
 https://cdn.jsdelivr.net/gh/alahaotv/TVsource/tv.txt 这是网络源地址，估计是GITHUB上的，用的JSDELIVR的开源CDN加速
 https://cdn.jsdelivr.net/gh/testitemgit/IPTV/TV.txt 这是自己的加速地址,更新后不能及时更新缓存，不推荐
-https://cdn.jsdelivr.net/gh/testitemgit/IPTV@latest/tv.txt 这是自己的加速地址,更新后能及时更新缓存，强烈推荐（需发布到RELEASE才能更新）
+https://cdn.jsdelivr.net/gh/testitemgit/IPTV@latest/tv.txt 这是自己的加速地址,更新后能及时更新缓存，强烈推荐（这种方案不需要发布releases，可以直接从repo读取文件，而且实时更新缓存。更正：并不能实时更新缓存，随缘更新）
 https://cdn.jsdelivr.net/gh/testitemgit/IPTV@2.0/TV.txt 这是自己的加速地址,更新后能及时更新缓存，强烈推荐（需发布到RELEASE才能更新且地址需更新版本号）
 央视,#genre#
+CGTN移动,http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+凤凰卫视资讯台,http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1481&online=1580892610&vqe=1
+凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+凤凰卫视中文台,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1451&online=1580892662&vqe=1
+凤凰卫视中文台,http://liveali.ifeng.com/live/FHZW.flv
+凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&txTime=16f9470cacc
+CCTV13-江西移动HD,http://117.169.120.143:8080/live/cctv-13/.m3u8
 CGTN-国际台,http://39.134.176.253/PLTV/88888888/224/3221226314/index.m3u8
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
